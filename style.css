@@ -1,0 +1,97 @@
+
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "red rose","poppins"; 
+    max-width: 100vw;
+    /*
+      #837530
+      #2b2922
+    */
+ }
+
+ body{
+   background-color: #2b2922;
+   color: #ffffff;
+ }
+
+ /* Navbar Section */
+.navbar{
+   position: relative;
+   top: 30px;
+   height: 50px;
+   background-color: #2b2922;
+}
+
+.logo{
+   position: absolute;
+   width: 100px;
+   left: 100px;
+}
+
+.list{
+   display: inline;
+   position: absolute;
+   top: 10px;
+   right: 240px;
+}
+
+.list-item{
+   display: inline;
+   margin: 0px 10px;
+   font-size: 15px;
+   font-weight: 100;
+   color: #C5C4C1;
+   cursor: pointer;
+}
+
+.list-item:hover{
+   color: #F1F0EF;
+   font-weight: 500;
+}
+
+.button-small{
+    display: inline;
+    position: absolute;
+    right: 100px;
+    padding: 10px 20px;
+    border: 1px solid #837530;
+    border-radius: 5px;
+    color: #837530;
+    font-weight: 600;
+    background: none;
+    outline: none;
+    cursor: pointer;
+}
+
+/* Hero Section */
+.hero{
+   display: block;
+   position: relative;
+   top: 75px;
+   background-color: #2b2922;
+}
+
+.hero-heading{
+    position: absolute;
+    left: 100px;
+    font-size: 65px;
+    /* text-align: center; */
+    width: 515px;
+}
+
+.description{
+   position: absolute;
+    padding: 30px 20px;
+    left: 770px;
+    width: 380px;
+    font-size: 15px;
+    font-weight: 100;  
+}
+
+.bot-image{
+   height: 45vh;
+   width: 100vw;
+   margin-top: 183px;
+}
