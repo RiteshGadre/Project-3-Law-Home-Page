@@ -6,7 +6,7 @@
 
 ![](./images/Project3.jpg)
 
-[Cick Here](https://ritesh-project-3-law-home-page.netlify.app/)
+[Click Here](https://ritesh-project-3-law-home-page.netlify.app/)
 
 # ![](https://img.shields.io/badge/-Learnings-orange)
 
